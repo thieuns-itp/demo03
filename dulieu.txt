@@ -1,0 +1,12 @@
+001
+nguyen van a
+1 1 2000
+1
+ha noi
+01
+002
+tran thi b
+2 2 2002
+0
+ha nam
+01
